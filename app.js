@@ -1,4 +1,4 @@
-// Made by Baal
+// Made by me
 
 const quote = document.getElementById('quote');
 const btn = document.querySelector('.btn');
@@ -15,7 +15,6 @@ const get_quote_and_img = () => {
         auteur.innerHTML = `<p>${data.author}</p>`;
     })
 
-    // l'api nous renvoie une image aléatoire
     fetch('https://picsum.photos/1955/1955')
     // .then((response) => response.json())
     .then((response) => {
