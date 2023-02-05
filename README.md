@@ -1,4 +1,4 @@
-<h1>Site Générateur de Citations</h1>
+<h1>Quote generator</h1>
 
-Le site sert à générer des citations anglaise juste en cliquant sur un bouton .
-Vous pouvez reprendre le code si vous le souhaiter .
+The site serves to generate English quotes just by clicking a button.
+You can use the code if you wish.
